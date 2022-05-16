@@ -15,6 +15,7 @@ python train.py --dataset='dblp'
 # FAQ
 ## Code of preprocessing data?
 Please kindly note that the data is originally preprocessed by GTN project (https://github.com/seongjunyun/Graph_Transformer_Networks). 
+
 _I received quite a lot email asking me about the dataset. I will not respond to them anymore as I cannot provide the code._
 
 ## How to generate semantic embeddings?
